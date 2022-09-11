@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+   
+}
+.container{
+    width: 80%;
+    margin: auto;
+    position: sticky;
+    top: 0;
+   
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    height: 85px;
+    align-items: center;
+}
+.logo{
+    color: red;
+    font-size: 40px;
+    font-weight: 700;
+}
+.nav-item{
+    text-decoration: none;
+    margin-right: 30px;
+    color: red;
+    font-size: 20px;
+}

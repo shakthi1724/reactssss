@@ -1,0 +1,22 @@
+.item{
+    width: 270px;
+    height: 400px;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 10px 30px 0px 0px;
+    background-color:black;
+    color: red;
+}
+.img{
+    /* width: 150px; */
+    /* height: 150px; */
+    /* border: 1px solid red; */
+    margin: 10px 0px 0px 60px;
+    color: red;
+}
+.details{
+    margin: 0px 0px 0px 80px;
+}
+.item:hover{
+    box-shadow: 10px;
+}

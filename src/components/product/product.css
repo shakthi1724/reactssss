@@ -1,0 +1,39 @@
+/* .product-container{
+    width: 80%;
+    margin: auto;
+}
+.fooditem-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    position: relative;
+}
+.form-container{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+} */
+/* .logout{
+    width: 100px;
+    height: 36px;
+    font-size: 16px;
+    position: absolute;
+    left: 0px;
+} */
+.body{
+    /* width: 80%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    /* background-color: aqua; */
+}
+.myorder{
+    margin: 20px 0px;
+}
+.logout{
+    width: 100px;
+    height: 36px;
+    font-size: 16px;
+}
